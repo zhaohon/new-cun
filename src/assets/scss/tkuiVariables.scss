@@ -1,0 +1,131 @@
+/*******************************
+             common
+*******************************/
+$font-color:#233038; //正文字体颜色
+$secondary-font-color:#6d8796; //副文字体颜色
+$border-color:#f5f5f5; //边框颜色
+$background-color:#f1f5f8; //页面背景色
+$hover-color:#f3f7fa; //鼠标悬停时阴影颜色
+$primary-color:#0e66d9; //主色
+$primary-color-dark:#0771c2; //主色暗
+$primary-color-light:#c9f9cd; //主色亮
+$accent-color:#FFDF00; //衬色
+$accent-color-dark:#FFA000; //衬色暗
+$accent-color-light:#FFECB3; //衬色亮
+$danger-color:#FF5722; //警告色
+$danger-color-dark:#E64A19; //警告色暗
+$gutter:8px; //元素间距
+$gutter-min:4px; //小号元素间距
+$gutter-max:15px; //大号元素间距
+$font-size:14px; //正文字体大小
+$caption-font-size:16px; //副文字体大小
+$title-font-size:18px; //标题文字字体大小
+$headline-font-size:24px; //大标题/全页标题字体大小
+$subhead-font-size:16px; //副标题字体大小
+$icon-size:24px; //图标大小
+
+
+/*******************************
+             header
+*******************************/
+$header-height:44px; //头部导航高度
+$header-color:#333; //头部文字颜色
+$header-background-color:#fff; //头部导航背景颜色
+$header-title-size:18px; //头部导航文字大小
+$header-gutter:15px; //头部导航左右间距
+
+
+/*******************************
+             button
+*******************************/
+$button-height:44px; //按钮高度
+$button-height-big:41px; //大按钮高度
+$button-height-small:41px; //小按钮高度
+$button-min-width:70px; //按钮最小宽度
+$button-min-width-big:343px; //大按钮最小宽度
+$button-min-width-small:68px; //小按钮最小宽度
+$button-padding:16px; //按钮内边距
+$button-padding-big:18px; //大按钮内边距
+$button-padding-small:14px; //小按钮内边距
+$button-font-size:16px; //按钮字体大小
+$button-font-size-big:18px; //大按钮字体大小
+$button-font-size-small:14px; //小按钮字体大小
+$button-gutter:10px; //按钮外边距
+$button-border-radius:2px; //按钮圆角尺寸
+$button-icon-size:24px; //图标按钮尺寸
+$button-icon-size-big:32px; //大图标按钮尺寸
+$button-icon-size-small:20px; //小图标按钮尺寸
+
+
+/*******************************
+             list
+*******************************/
+$list-height:48px; //列表单行高度
+$list-height-small:40px; //小号列表单行高度
+$list-height-big:56px; //大号列表单行高度
+$list-background-color:white; //列表背景色
+$list-hover-background-color:#f3f7fa; //鼠标悬停时背景颜色
+$list-hover-shadow:#f3f7fa; //鼠标悬停时阴影颜色
+$list-gutter:15px; //列表分栏间距
+$list-border-color: #f5f5f5; //列表边框颜色
+$list-row-padding:15px; //列表单行左右边距
+$list-row-padding-y:0; //列表单行上下边距
+
+
+/*******************************
+             tag
+*******************************/
+$tag-font-color:#233038; //标签字体颜色
+$tag-color:#e3e3e3; //标签颜色
+$tag-border-radius:0; //标签圆角角度
+$tag-gutter:10px; //标签间距
+$tag-font-size:16px; //标签字号
+$tag-min-width:32px; //标签最小宽度
+$tag-padding-y:4px; //标签垂直内边距
+$tag-padding-x:6px; //标签水平内边距
+$tag-font-size-small:14px; //小号标签字号
+$tag-min-width-small:20px; //小号标签最小宽度
+$tag-padding-y-small:2px; //小号标签垂直内边距
+$tag-padding-x-small:4px; //小号标签水平内边距
+$tag-font-size-big:18px; //大号标签字号
+$tag-min-width-big:48px; //大号标签最小宽度
+$tag-padding-y-big:8px; //大号标签垂直内边距
+$tag-padding-x-big:12px; //大号标签水平内边距
+
+
+/*******************************
+             table
+*******************************/
+$table-background-color:white; //表格背景颜色
+$table-hover-background-color:#f3faf3; //鼠标悬停时背景颜色
+$table-hover-shadow:#f3f7fa; //鼠标悬停时阴影颜色
+$table-font-size:14px; //表格字体大小
+$table-font-color:#233038; //表格字体颜色
+$table-cell-padding-x:6px; //表格格子横向内边距
+$table-cell-padding-y:10px; //表格格子纵向内边距
+$table-border-color:#f5f5f5; //表格边框颜色
+$table-header-background-color:#358AFE; //表格头部背景色
+$table-header-font-weight:500; //表格头部字体粗度
+$table-header-font-size:16px; //表格头部字体尺寸
+$table-header-font-color:#FFFFFF; //表格头部字体颜色
+$table-header-cell-padding-x:6px; //表格头部单元格横向内边距
+$table-header-cell-padding-y:10px; //表格头部单元格纵向内边距
+$table-title-font-size:18px; //表格分段标题字体大小
+$table-title-font-color:#233038; //表格分段标题字体颜色
+$table-title-background-color:#f5f5f5; //表格分段标题背景色
+$table-row-padding:10px; //表格每列左右边距
+
+
+/*******************************
+             input
+*******************************/
+$input-border-color:#E0E0E0; //输入框边框颜色
+$input-icon-color:#233038; //输入框图标颜色
+$input-gutter:15px; //输入框内元素边距
+$input-padding-x:0px; //输入框左右边距
+$input-padding-y:18px; //输入框上下边距
+$label-width:68px; //输入框标题宽度
+$input-font-size:14px; //输入框字体大小
+$label-font-weight:500; //输入框标题粗度
+$textarea-height:68px; //多行文本输入框高度
+//$input-disable-background-color: transparent;

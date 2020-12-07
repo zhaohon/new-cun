@@ -1,0 +1,269 @@
+$warning: #ffc107;
+$primary: #007bff;
+$secondary: #6c757d;
+$success: #28a745;
+$danger: #dc3545;
+$info: #17a2b8;
+$light: #f8f9fa;
+$dark: #343a40;
+$white: white;
+$light-grey: #666;
+$gray: #686868;
+$light-gray: #E5E5E5;
+$transparent: rgba(255, 255, 255, 0);
+
+.bg-warning {
+  background-color: $warning !important;
+}
+
+.bg-primary {
+  background-color: $primary !important;
+}
+
+.bg-secondary {
+  background-color: $secondary !important;
+}
+
+.bg-success {
+  background-color: $success !important;
+}
+
+.bg-danger {
+  background-color: $danger !important;
+}
+
+.bg-info {
+  background-color: $info !important;
+}
+
+.bg-light {
+  background-color: $light !important;
+}
+
+.bg-dark {
+  background-color: $dark !important;
+}
+
+.bg-white {
+  background-color: $white !important;
+}
+
+.bg-transparent {
+  background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.text-primary {
+  color: $primary !important;
+}
+
+.text-secondary {
+  color: $secondary !important;
+}
+
+.text-success {
+  color: $success !important;
+}
+
+.text-danger {
+  color: $danger !important;
+}
+
+.text-warning {
+  color: $warning !important;
+}
+
+.text-info {
+  color: $info !important;
+}
+
+.text-light {
+  color: $light !important;
+}
+
+.text-dark {
+  color: $dark !important;
+}
+.text-gray {
+  color: $gray !important;
+}
+.text-light-grey {
+  color: $light-grey !important;
+}
+.text-light-gray {
+  color: $light-gray !important;
+}
+.text-body {
+  color: #212529 !important;
+}
+
+.text-muted {
+  color: $secondary !important;
+}
+
+.text-white {
+  color: $white !important;
+}
+
+.bg-warning-hover:hover {
+  background-color: $warning !important;
+}
+
+.bg-primary-hover:hover {
+  background-color: $primary !important;
+}
+
+.bg-secondary-hover:hover {
+  background-color: $secondary !important;
+}
+
+.bg-success-hover:hover {
+  background-color: $success !important;
+}
+
+.bg-danger-hover:hover {
+  background-color: $danger !important;
+}
+
+.bg-info-hover:hover {
+  background-color: $info !important;
+}
+
+.bg-light-hover:hover {
+  background-color: $light !important;
+}
+
+.bg-dark-hover:hover {
+  background-color: $dark !important;
+}
+
+.bg-white-hover:hover {
+  background-color: $white !important;
+}
+
+.bg-transparent-hover:hover {
+  background-color: rgba(255, 255, 255, 0) !important;
+}
+
+.text-primary-hover:hover {
+  color: $primary !important;
+}
+
+.text-secondary-hover:hover {
+  color: $secondary !important;
+}
+
+.text-success-hover:hover {
+  color: $success !important;
+}
+
+.text-danger-hover:hover {
+  color: $danger !important;
+}
+
+.text-warning-hover:hover {
+  color: $warning !important;
+}
+
+.text-info-hover:hover {
+  color: $info !important;
+}
+
+.text-light-hover:hover {
+  color: $light !important;
+}
+
+.text-dark-hover:hover {
+  color: $dark !important;
+}
+
+.text-body-hover:hover {
+  color: #212529 !important;
+}
+
+.text-muted-hover:hover {
+  color: $secondary !important;
+}
+
+.text-white-hover:hover {
+  color: $white !important;
+}
+
+.border-primary {
+  border-color: $primary !important;
+}
+
+.border-secondary {
+  border-color: $secondary !important;
+}
+
+.border-success {
+  border-color: $success !important;
+}
+
+.border-danger {
+  border-color: $danger !important;
+}
+
+.border-warning {
+  border-color: $warning !important;
+}
+
+.border-info {
+  border-color: $info !important;
+}
+
+.border-light {
+  border-color: $light !important;
+}
+
+.border-dark {
+  border-color: $dark !important;
+}
+
+.border-white {
+  border-color: $white !important;
+}
+
+.border-transparent {
+  border-color: rgba(255, 255, 255, 0) !important;
+}
+
+.border-primary-hover:hover {
+  border-color: $primary !important;
+}
+
+.border-secondary-hover:hover {
+  border-color: $secondary !important;
+}
+
+.border-success-hover:hover {
+  border-color: $success !important;
+}
+
+.border-danger-hover:hover {
+  border-color: $danger !important;
+}
+
+.border-warning-hover:hover {
+  border-color: $warning !important;
+}
+
+.border-info-hover:hover {
+  border-color: $info !important;
+}
+
+.border-light-hover:hover {
+  border-color: $light !important;
+}
+
+.border-dark-hover:hover {
+  border-color: $dark !important;
+}
+
+.border-white-hover:hover {
+  border-color: $white !important;
+}
+
+.border-transparent-hover:hover {
+  border-color: rgba(255, 255, 255, 0) !important;
+}
